@@ -1,0 +1,20 @@
+
+body {
+    background-color: paleturquoise;
+    text-align: center;
+    color: black;
+    cursor:crosshair;
+
+}
+
+.Title {
+    font:menu;
+    font-size:x-large;
+    font-style:oblique;
+}
+
+.Body {
+    font: message-box;
+    font-size: medium;
+    font-style: inherit;
+}
