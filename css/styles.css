@@ -18,3 +18,8 @@ body {
     font-size: medium;
     font-style: inherit;
 }
+
+img {
+    border: 5px solid rgb(109, 226, 85);
+    border-radius: 4px;
+}
